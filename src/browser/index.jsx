@@ -5,7 +5,7 @@
 import './css/index.css';
 
 window.eval = global.eval = () => { // eslint-disable-line no-multi-assign, no-eval
-  throw new Error('Sorry, Mattermost does not support window.eval() for security reasons.');
+  throw new Error('Sorry, Prossell does not support window.eval() for security reasons.');
 };
 
 import React from 'react';

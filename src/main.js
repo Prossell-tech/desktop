@@ -387,7 +387,7 @@ function handleAppCertificateError(event, webContents, url, error, certificate, 
     certificateErrorCallbacks.set(errorID, callback);
     dialog.showMessageBox(mainWindow, {
       title: 'Certificate Error',
-      message: 'There is a configuration issue with this Mattermost server, or someone is trying to intercept your connection. You also may need to sign into the Wi-Fi you are connected to using your web browser.',
+      message: 'There is a configuration issue with this Prossell server, or someone is trying to intercept your connection. You also may need to sign into the Wi-Fi you are connected to using your web browser.',
       type: 'error',
       detail,
       buttons: ['More Details', 'Cancel Connection'],
@@ -661,7 +661,7 @@ function handleAppWebContentsCreated(dc, contents) {
 }
 
 function initializeAfterAppReady() {
-  app.setAppUserModelId('Mattermost.Desktop'); // Use explicit AppUserModelID
+  app.setAppUserModelId('Prossell.Desktop'); // Use explicit AppUserModelID
 
   const appStateJson = path.join(app.getPath('userData'), 'app-state.json');
   appState = new AppStateManager(appStateJson);

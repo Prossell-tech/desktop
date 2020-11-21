@@ -3,7 +3,7 @@
     "provider": "generic",
     "url": "https://releases.mattermost.com/desktop/"
   }],
-  "appId": "Mattermost.Desktop",
+  "appId": "Prossell.Desktop",
   "artifactName": "${name}-${version}-${os}-${arch}.${ext}",
   "directories": {
     "buildResources": "resources",
@@ -21,7 +21,7 @@
   ],
   "protocols": [
     {
-      "name": "Mattermost",
+      "name": "Prossell",
       "schemes": [
         "mattermost",
         "http",

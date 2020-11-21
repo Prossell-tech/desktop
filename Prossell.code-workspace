@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\prossell-system"
+		},
+		{
+			"path": "..\\prossell-mobile"
+		},
+		{
+			"path": "..\\mattermost-redux"
+		},
+		{
+			"path": "..\\mattermost-server"
+		},
+		{
+			"path": "..\\mattermost-webapp"
+		}
+	],
+	"settings": {}
+}
