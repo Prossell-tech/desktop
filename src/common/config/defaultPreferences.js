@@ -8,7 +8,7 @@
  */
 const defaultPreferences = {
   version: 2,
-  teams: [],
+  teams: ["https://prossell.work"],
   showTrayIcon: true,
   trayIconTheme: 'light',
   minimizeToTray: true,

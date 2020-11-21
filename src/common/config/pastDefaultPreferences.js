@@ -9,7 +9,7 @@ const pastDefaultPreferences = {
   },
   1: {
     version: 1,
-    teams: [],
+    teams: ["https://prossell.work"],
     showTrayIcon: false,
     trayIconTheme: 'light',
     minimizeToTray: false,
