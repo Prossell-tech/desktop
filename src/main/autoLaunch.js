@@ -8,7 +8,7 @@ async function upgradeAutoLaunch() {
     return;
   }
   const appLauncher = new AutoLaunch({
-    name: 'Prossell',
+    name: 'Mattermost',
   });
   const enabled = await appLauncher.isEnabled();
   if (enabled) {
