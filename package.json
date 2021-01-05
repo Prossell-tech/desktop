@@ -1,17 +1,17 @@
 {
   "name": "mattermost-desktop",
-  "productName": "Mattermost",
+  "productName": "Prossell",
   "version": "4.7.0-develop",
-  "description": "Mattermost",
+  "description": "Prossell",
   "main": "main.js",
-  "author": "Mattermost, Inc. <feedback@mattermost.com>",
+  "author": "Prossell, Inc. <feedback@Prossell.com>",
   "license": "Apache-2.0",
   "engines": {
     "node": ">=4.2.0"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mattermost/desktop.git"
+    "url": "git://github.com/Prossell-tech/desktop.git"
   },
   "scripts": {
     "postinstall": "electron-builder install-app-deps && npm run extract-dict",
@@ -63,7 +63,7 @@
     "eslint-plugin-eslint-comments": "^3.1.2",
     "eslint-plugin-header": "^3.0.0",
     "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-mattermost": "github:mattermost/eslint-plugin-mattermost#070ce792d105482ffb2b27cfc0b7e78b3d20acee",
+    "eslint-plugin-Prossell": "github:Prossell/eslint-plugin-Prossell#070ce792d105482ffb2b27cfc0b7e78b3d20acee",
     "eslint-plugin-react": "^7.16.0",
     "file-loader": "^2.0.0",
     "image-webpack-loader": "5.0.0",
@@ -73,7 +73,7 @@
     "npm-run-all": "^4.1.5",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "react-smooth-dnd": "github:mattermost/react-smooth-dnd#af6b471295007274560a375799622c1cd52d678a",
+    "react-smooth-dnd": "github:Prossell/react-smooth-dnd#af6b471295007274560a375799622c1cd52d678a",
     "spectron": "^9.0.0",
     "style-loader": "^0.23.1",
     "url-loader": "^1.1.2",
