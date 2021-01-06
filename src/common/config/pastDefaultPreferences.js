@@ -5,11 +5,11 @@ import defaultPreferences from './defaultPreferences';
 
 const pastDefaultPreferences = {
   0: {
-    url: '',
+    url: 'https://prossell.work',
   },
   1: {
     version: 1,
-    teams: ["https://prossell.work"],
+    teams: [],
     showTrayIcon: false,
     trayIconTheme: 'light',
     minimizeToTray: false,
