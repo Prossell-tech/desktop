@@ -2,10 +2,10 @@
   "name": "prossell-desktop",
   "productName": "Prossell",
   "desktopName": "Prossell.desktop",
-  "version": "4.7.0-develop",
+  "version": "1.0.0-dev",
   "description": "Prossell",
   "main": "main_bundle.js",
-  "author": "Prossell, Inc. <feedback@mattermost.com>",
+  "author": "Prossell, Inc.",
   "homepage": "https://about.mattermost.com",
   "license": "Apache-2.0",
   "dependencies": {
