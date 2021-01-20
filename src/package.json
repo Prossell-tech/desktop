@@ -2,7 +2,7 @@
   "name": "prossell-desktop",
   "productName": "Prossell",
   "desktopName": "Prossell.desktop",
-  "version": "1.0.0-dev",
+  "version": "1.0.0",
   "description": "Prossell",
   "main": "main_bundle.js",
   "author": "Prossell, Inc.",
