@@ -1,7 +1,7 @@
 {
   "name": "prossell-desktop",
   "productName": "Prossell",
-  "version": "1.0.0-dev",
+  "version": "1.0.0",
   "description": "Prossell",
   "main": "main.js",
   "author": "Prossell, Inc.",
